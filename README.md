@@ -16,6 +16,14 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 <div id="stats" align="center">
   <img src="https://komarev.com/ghpvc/?username=3JloDey&style=flat-square&color=blue" alt=""/>
 </div>
+
+
+---
+### :clipboard: About Me:
+- I am a beginner Python developer.
+- On my channel I will upload the full course from SkillBox.
+- And together with you we will develop and learn something new!:+1:
