@@ -1,16 +1,18 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/172cWugSaKYUhaMdOW/giphy-downsized-large.gif" width="250"/>
+</div>
 
-<!--
-**3JloDey/3JloDey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges" align="center">
+  <a href="https://vk.com/m1st4k3">
+    <img src="https://img.shields.io/badge/-Вконтакте-1E90FF?style=for-the-badge&logo=Vk&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/itsmymistake">
+    <img src="https://img.shields.io/badge/Telegram-4169E1?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-Rutube-URL">
+    <img src="https://img.shields.io/badge/RuTube-696969?style=for-the-badge&logo=youtube&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="your-YouTube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
