@@ -9,10 +9,13 @@
   <a href="https://t.me/itsmymistake">
     <img src="https://img.shields.io/badge/Telegram-4169E1?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-Rutube-URL">
+  <a href="https://rutube.ru/">
     <img src="https://img.shields.io/badge/RuTube-696969?style=for-the-badge&logo=youtube&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="your-YouTube-URL">
+  <a href="https://www.youtube.com/">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Twitter Badge"/>
   </a>
+</div>
+<div id="stats" align="center">
+  <img src="https://komarev.com/ghpvc/?username=3JloDey&style=flat-square&color=blue" alt=""/>
 </div>
